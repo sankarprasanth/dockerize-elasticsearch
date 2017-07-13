@@ -1,6 +1,6 @@
 # ES #
 
-Elastic search for shoproads over the world
+Elastic search
 
 ### What is this repository for? ###
 
